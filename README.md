@@ -1,8 +1,10 @@
 # 👋 ¡Qué tal! Soy Dylan (⌐■_■)
 
 ### 🐢🐐 Soy cabeza dura
+![Mi imagen](https://github.com/user-attachments/assets/0b206db4-1ea6-4072-b867-46797b412636)
 
 Soy **cabeza dura**, sí… pero de esos que no se rinden.  
+
 Actualmente estudio **Ingeniería en Informática**, mi segunda carrera.  
 La primera fue **Electromecánica** ⚙️ —  🔥 **ahí aprendí que los problemas no se evitan, se enfrentan hasta resolverlos**.
 
