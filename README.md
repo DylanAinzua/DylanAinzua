@@ -14,9 +14,27 @@ lo que me inspiró a dar un giro en mi vida y seguir creando proyectos 👨‍�
 En **2024** me inscribí y realicé equivalencias,  
 y desde entonces estoy persiguiendo mi camino en **Ingeniería en Informática** 🧠  
 
----
 
-## 🌐 Encuéntrame en:
-- [LinkedIn](www.linkedin.com/in/dylan-adam-i-255a26244)
-- [Correo](mailto:dylaninzua@hotmail.com)
+
+### 🌐 Encuéntrame en
+
+> 👥 [LinkedIn](www.linkedin.com/in/dylan-adam-i-255a26244) — *Most Valuable Professional* en Developer Technologies  
+> 📧 [Correo]
+
+
+
+# ⚡️ ¡Fransketien Proyectos!  
+> *“¡Está vivo!”* — Aquí verás algunos de mis **monstruos que funcionan** 🧪  
+
+### 💾 Notion en C  
+Una herramienta tipo Notion desarrollada en **lenguaje C**, explorando estructuras de datos y manejo de archivos.  
+
+### 🤖 Chat Bot — Python  
+Chatbot simple en **Python**, capaz de responder y aprender de interacciones básicas.  
+
+### 🏥 Agenda Hospitales — Python  
+Sistema de gestión de citas médicas y pacientes, desarrollado en **Python** con enfoque modular y escalable.  
+
+
+
 
