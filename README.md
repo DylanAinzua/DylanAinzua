@@ -2,18 +2,27 @@
 
 ### 🐢🐐 Soy cabeza dura
 
-Soy **cabeza dura** y actualmente estudio **Ingeniería en Informática**, mi segunda carrera.  
-La primera fue **Electromecánica** ⚙️  
+Soy **cabeza dura**, sí… pero de esos que no se rinden.  
+Actualmente estudio **Ingeniería en Informática**, mi segunda carrera.  
+La primera fue **Electromecánica** ⚙️ — una etapa que me enseñó a **pensar con las manos y resolver con la cabeza**.  
 
 Perdí la cuenta de cuántas veces me caí y me volví a levantar 💪  
-¿Por qué este cambio repentino? Porque sigo el *sueño norteamericano*, creo en las **segundas oportunidades** y en que **nunca es tarde** para perseguir lo que te apasiona 🚀  
+Cada tropiezo me enseñó algo nuevo, y cada caída fue un paso más cerca de mi mejor versión.  
+
+¿Por qué este cambio? Porque sigo el *sueño norteamericano*,  
+creo en las **segundas oportunidades** y en que **nunca es tarde para reinventarse** y construir lo que uno sueña 🚀  
 
 Desde **2023** trabajé como **ayudante de profesor universitario** en el lenguaje **C**,  
-lo que me inspiró a dar un giro en mi vida y seguir creando proyectos 👨‍💻  
+una experiencia que despertó en mí el gusto por **enseñar, aprender y compartir conocimiento**.  
 
-En **2024** me inscribí y realicé equivalencias,  
-y desde entonces estoy persiguiendo mi camino en **Ingeniería en Informática** 🧠  
+En **2024** di el salto: hice las equivalencias y comencé oficialmente mi camino en **Ingeniería en Informática** 🧠  
 
+Desde entonces, **estudio, programo** y sigo un principio simple:  
+
+> “El progreso no siempre es rápido, pero siempre es progreso.”  
+
+Soy de los que avanzan paso a paso, incluso cuando el camino se pone difícil.  
+Porque si algo tengo claro, es que **la disciplina supera al talento cuando el talento no se disciplina.**  
 
 
 ### 🌐 Encuéntrame en
