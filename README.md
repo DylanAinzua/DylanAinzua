@@ -4,7 +4,7 @@
 
 Soy **cabeza dura**, sí… pero de esos que no se rinden.  
 Actualmente estudio **Ingeniería en Informática**, mi segunda carrera.  
-La primera fue **Electromecánica** ⚙️ — una etapa que me enseñó a **pensar con las manos y resolver con la cabeza**.  
+La primera fue **Electromecánica** ⚙️ —  🔥 **ahí aprendí que los problemas no se evitan, se enfrentan hasta resolverlos**.
 
 Perdí la cuenta de cuántas veces me caí y me volví a levantar 💪  
 Cada tropiezo me enseñó algo nuevo, y cada caída fue un paso más cerca de mi mejor versión.  
