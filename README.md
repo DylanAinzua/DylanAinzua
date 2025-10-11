@@ -32,8 +32,8 @@ Porque si algo tengo claro, es que **la disciplina supera al talento cuando el t
 
 
 
-# ⚡️ ¡Fransketien Proyectos!  
-> *“¡Está vivo!”* — Aquí verás algunos de mis **monstruos que funcionan** 🧪  
+# ⚡️ ¡Fransketien Proyectos!🧟‍♂️ 
+> 👨‍🔬🧠 *“¡Está vivo!”* — Aquí verás algunos de mis **monstruos que funcionan** 🧪   
 
 ### 💾 Notion en C  
 Una herramienta tipo Notion desarrollada en **lenguaje C**, explorando estructuras de datos y manejo de archivos.  
