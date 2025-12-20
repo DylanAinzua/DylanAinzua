@@ -1,51 +1,77 @@
-# 👋 ¡Qué tal! Soy Dylan (⌐■_■)
 
-### 🐢🐐 Soy cabeza dura
-![Mi imagen](https://github.com/user-attachments/assets/0b206db4-1ea6-4072-b867-46797b412636)
+## 👋 ¿Qué tal? Soy Dylan (DAIO)
 
-Soy **cabeza dura**, sí… pero de esos que no se rinden.  
-
-Actualmente estudio **Ingeniería en Informática**, mi segunda carrera.  
-La primera fue **Electromecánica** ⚙️ —  🔥 **ahí aprendí que los problemas no se evitan, se enfrentan hasta resolverlos**.
-
-Perdí la cuenta de cuántas veces me caí y me volví a levantar 💪  
-Cada tropiezo me enseñó algo nuevo, y cada caída fue un paso más cerca de mi mejor versión.  
-
-¿Por qué este cambio? Porque sigo el *sueño norteamericano*,  
-creo en las **segundas oportunidades** y en que **nunca es tarde para reinventarse** y construir lo que uno sueña 🚀  
-
-Desde **2023** trabajé como **ayudante de profesor universitario** en el lenguaje **C**,  
-una experiencia que despertó en mí el gusto por **enseñar, aprender y compartir conocimiento**.  
-
-En **2024** di el salto: hice las equivalencias y comencé oficialmente mi camino en **Ingeniería en Informática** 🧠  
-
-Desde entonces, **estudio, programo** y sigo un principio simple:  
-
-> “El progreso no siempre es rápido, pero siempre es progreso.”  
-
-Soy de los que avanzan paso a paso, incluso cuando el camino se pone difícil.  
-Porque si algo tengo claro, es que **la disciplina supera al talento cuando el talento no se disciplina.**  
-
-
-### 🌐 Encuéntrame en
-
-> 👥 [LinkedIn](www.linkedin.com/in/dylan-adam-i-255a26244) — *Most Valuable Professional* en Developer Technologies  
-> 📧 [Correo]
+<img width="1366" height="768" alt="Beige Blogger Moderna Personal Sitio web" src="https://github.com/user-attachments/assets/262a3703-a6ab-4afc-a74c-71cf9b95d61b" />
 
 
 
-# ⚡️ ¡Fransketien Proyectos!🧟‍♂️ 
-> 👨‍🔬🧠 *“¡Está vivo!”* — Aquí verás algunos de mis **monstruos que funcionan** 🧪   
 
-### 💾 Notion en C  
-Una herramienta tipo Notion desarrollada en **lenguaje C**, explorando estructuras de datos y manejo de archivos.  
+> Un consejo que me dio mi padre y que hoy pongo en práctica.
+
+**Las decisiones difíciles son las mas valientes pero la que cuestan mas**
+
+Gracias por tomarte el tiempo de leer esto.
+
+Comencé mi camino como estudiante de **Electromecánica**, alcanzando el **tercer año de la carrera**. Durante ese proceso logré destacarme académicamente, representar a mi universidad y participar en **proyectos en lenguaje C** junto a mi equipo. Además, tuve la oportunidad de desempeñarme como **profesor**, una experiencia que fortaleció tanto mis conocimientos técnicos como mi vocación por enseñar.
+
+Como en toda historia real (sin filtros), aparecieron obstáculos. Algunos más grandes de lo que podía derribar en ese momento. Aun así, hoy estoy acá, **volviendo a creer en mí**. Suena a cliché, sí, pero es una verdad incómoda: si no soy yo quien construye este camino, nadie lo va a hacer por mí.
+
+Tomé una decisión difícil, pero profundamente satisfactoria: **reinventarme**, empezar a construir un camino diferente y apostar otra vez por mi crecimiento. Y aunque el paso fue personal, no fue solitario. Nada de esto habría sido posible sin el apoyo de mis compañeros, profesores y mi familia, quienes me acompañaron y me sostuvieron para estar hoy en esta posición.
+
+
+## 🌐 Podés encontrarme en
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dylan_Adam_I-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/dylan-adam-i-255a26244)
+[![Discord](https://img.shields.io/badge/Discord-daio.dev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.com/users/TU_ID)
+[![Instagram](https://img.shields.io/badge/Instagram-dylan_inzua-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/daio.dev/)
+
+
+# ⚡️ Frankenstein Portfolio 🧟‍♂️
+
+> 👨‍🔬🧠 “¡Está vivo!” — una colección de ideas que pasaron del papel al código y funcionan de verdad 🧪
+
+### 💾 Notion en C 
+**📌 Aplicación de consola para escribir y organizar notas**
+
+>Aplicación inspirada en Notion, creada desde cero en C, enfocada en el uso eficiente de estructuras de datos, manejo de archivos persistentes y organización de información.
+>Este proyecto me permitió fortalecer la lógica de programación, el diseño de estructuras y el trabajo en equipo.
+
+**Tecnologías y conceptos:**
+
+![Structs](https://img.shields.io/badge/Structs-Lenguaje_C_Estructuras-101010?style=for-the-badge)
+![Archivos](https://img.shields.io/badge/Archivos-File_IO-4CAF50?style=for-the-badge)
+![Memoria](https://img.shields.io/badge/Memoria-Dinámica-FF9800?style=for-the-badge)
+![Consola](https://img.shields.io/badge/Consola-CLI-607D8B?style=for-the-badge)
+![Lógica](https://img.shields.io/badge/Lógica-De_Negocio-9C27B0?style=for-the-badge)
 
 ### 🤖 Chat Bot — Python  
-Chatbot simple en **Python**, capaz de responder y aprender de interacciones básicas.  
+>Chatbot desarrollado en Python, diseñado para responder consultas básicas y adaptarse a interacciones previas mediante un sistema simple de aprendizaje.
+>El proyecto permitió profundizar en lógica conversacional, control de flujo, y almacenamiento de información, priorizando un diseño claro, escalable y fácil de mantener.
+
+Tecnologías y conceptos:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Control de flujo](https://img.shields.io/badge/Control_de_flujo-Condicionales_y_bucles-101010?style=for-the-badge)
+![Árbol de decisiones](https://img.shields.io/badge/Árbol_de_decisiones-Decision_Tree-4CAF50?style=for-the-badge)
+![Lógica conversacional](https://img.shields.io/badge/Lógica_conversacional-Chatbot-9C27B0?style=for-the-badge)
+
 
 ### 🏥 Agenda Hospitales — Python  
-Sistema de gestión de citas médicas y pacientes, desarrollado en **Python** con enfoque modular y escalable.  
+>Aplicación desarrollada en Python para administrar pacientes, turnos y registros médicos.
+>Diseñada con un enfoque modular y escalable, simulando un sistema real de gestión hospitalaria y priorizando la organización del código.
+
+Tecnologías y conceptos:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Programación modular](https://img.shields.io/badge/Programación_modular-Módulos-101010?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-Data_Format-4CAF50?style=for-the-badge&logo=json&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV-Data_Format-FF9800?style=for-the-badge)
+![Estructuras de datos](https://img.shields.io/badge/Estructuras_de_datos-Listas_y_diccionarios-9C27B0?style=for-the-badge)
+![Escalabilidad](https://img.shields.io/badge/Escalabilidad-Diseño_escalable-607D8B?style=for-the-badge)
 
 
 
+### 🖥️ Creación de Servidores — Red Hat
+**📌 Práctica final del curso de Red Hat**
+> Configuración y administración básica de usuarios, permisos y servicios en entornos Linux, utilizando comandos de sistema y buenas prácticas de administración de servidores.
 
