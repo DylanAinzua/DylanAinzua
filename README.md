@@ -1,12 +1,11 @@
 
-## 👋 ¿Qué tal? Soy Dylan (DAIO)
+## 👋 ¿Qué tal? Soy Dylan 
 
 <img width="1366" height="768" alt="Beige Blogger Moderna Personal Sitio web" src="https://github.com/user-attachments/assets/262a3703-a6ab-4afc-a74c-71cf9b95d61b" />
 
 
 
 
-> Un consejo que me dio mi padre y que hoy pongo en práctica.
 
 **Las decisiones difíciles son las mas valientes pero la que cuestan mas**
 
@@ -23,12 +22,10 @@ Tomé una decisión difícil, pero profundamente satisfactoria: **reinventarme**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dylan_Adam_I-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/dylan-adam-i-255a26244)
 [![Discord](https://img.shields.io/badge/Discord-daio.dev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.com/users/TU_ID)
-[![Instagram](https://img.shields.io/badge/Instagram-dylan_inzua-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/daio.dev/)
 
 
-# ⚡️ Frankenstein Portfolio 🧟‍♂️
+#  Portfolio 
 
-> 👨‍🔬🧠 “¡Está vivo!” — una colección de ideas que pasaron del papel al código y funcionan de verdad 🧪
 
 ### 💾 Notion en C 
 **📌 Aplicación de consola para escribir y organizar notas**
