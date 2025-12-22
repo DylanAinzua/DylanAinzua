@@ -7,16 +7,6 @@
 
 
 
-**Las decisiones difíciles son las mas valientes pero la que cuestan mas**
-
-Gracias por tomarte el tiempo de leer esto.
-
-Comencé mi camino como estudiante de **Electromecánica**, alcanzando el **tercer año de la carrera**. Durante ese proceso logré destacarme académicamente, representar a mi universidad y participar en **proyectos en lenguaje C** junto a mi equipo. Además, tuve la oportunidad de desempeñarme como **profesor**, una experiencia que fortaleció tanto mis conocimientos técnicos como mi vocación por enseñar.
-
-Como en toda historia real (sin filtros), aparecieron obstáculos. Algunos más grandes de lo que podía derribar en ese momento. Aun así, hoy estoy acá, **volviendo a creer en mí**. Suena a cliché, sí, pero es una verdad incómoda: si no soy yo quien construye este camino, nadie lo va a hacer por mí.
-
-Tomé una decisión difícil, pero profundamente satisfactoria: **reinventarme**, empezar a construir un camino diferente y apostar otra vez por mi crecimiento. Y aunque el paso fue personal, no fue solitario. Nada de esto habría sido posible sin el apoyo de mis compañeros, profesores y mi familia, quienes me acompañaron y me sostuvieron para estar hoy en esta posición.
-
 
 ## 🌐 Podés encontrarme en
 
