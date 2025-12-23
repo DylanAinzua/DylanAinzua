@@ -1,5 +1,5 @@
-
-## 👋 ¿Qué tal? Soy Dylan 
+<h1 align="center">Hey, I'm Dylan — nice to see you - </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
+<!--  -->A
 
 <img width="1366" height="768" alt="Beige Blogger Moderna Personal Sitio web" src="https://github.com/user-attachments/assets/262a3703-a6ab-4afc-a74c-71cf9b95d61b" />
 
