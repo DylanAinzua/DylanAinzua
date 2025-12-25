@@ -1,10 +1,31 @@
 <h1 align="center">Hey, I'm Dylan — nice to see you - </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
-<!--  -->A
+<!--  -->
 
-<img width="1366" height="768" alt="Beige Blogger Moderna Personal Sitio web" src="https://github.com/user-attachments/assets/262a3703-a6ab-4afc-a74c-71cf9b95d61b" />
+<div>
+<img align="right" width="400"  alt="Beige Aesthetic Book Review Carousel Instagram Post" src="https://github.com/user-attachments/assets/b275a60e-7a6f-4124-8d57-adce620a1c12" />
 
 
+<h2> About me </h2>
 
+I'm a **Software Engineering student** at a private university in Argentina (UADE), currently in my **third year**. I have a strong interest in **Industrial Automation** and **Artificial Intelligence**, driven by my previous background in **Electromechanical Engineering**, which gave me solid foundations in systems, control, and analytical problem-solving.
+
+One of my professors, with whom I later worked as a **teaching assistant**, taught me a core principle: **knowledge should be shared and given back to the community**. This mindset strongly shapes my professional goals and the way I approach technology.
+
+I aspire to work at a company where I can **develop software**, keep learning, and continuously improve my skills, while contributing to **meaningful projects** with a positive impact on society.
+
+I'm always looking for **new projects and collaborations**. Feel free to explore my repositories, and reach out if you'd like to work together or think I could be a good fit for your team.
+
+ <h2> Technologies That I Know👨🏻‍💻 </h2>
+ 
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,py,vscode,redhat,kubernetes&perline=14" />
+  </a>
+</p>
+
+
+<div>
 
 
 
